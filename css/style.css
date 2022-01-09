@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.head{
+    margin-top: 20%;
+    margin-left: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.link{
+    margin-left: 42%;
+    margin-top: 10px;
+    
+}
+
+a {
+    color: gray;
+}
+a:hover {
+    color: green;
+}
+
+.eform{
+    margin-top: 15%;
+    margin-left: 40%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mb-3{
+    margin-left: 35%;
+    margin-top: 13%;
+    width: 30%;
+}
+
+
